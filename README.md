@@ -9,6 +9,13 @@ Practice using branching statements (`if`, `if-else`, `else-if`, `switch`) to so
 Write a Java program that performs different utility calculations based on a user's choice.  
 The program should display the following menu:
 
+==== Smart Utility Calculator ====
+1. Check if a number is Even or Odd
+2. Find the largest of three numbers
+3. Grade Calculator
+4. Simple Calculator (+, -, *, /)
+5. Exit
+   Enter your choice:
 
 ### Program Requirements
 
@@ -45,18 +52,25 @@ The program should display the following menu:
 ### **Invalid Choice**
 - Display `"Invalid menu option."`
 
+90–100 → A
+80–89 → B
+70–79 → C
+60–69 → D
+Below 60 → F
+
 ---
 
 ## 💻 Sample Output
+
 ==== Smart Utility Calculator ====
-Check if a number is Even or Odd
-Find the largest of three numbers
-Grade Calculator
-Simple Calculator
-Exit
-Enter your choice: 3
-Enter your score: 85
-Grade: B
+1. Check if a number is Even or Odd
+2. Find the largest of three numbers
+3. Grade Calculator
+4. Simple Calculator
+5. Exit
+   Enter your choice: 3
+   Enter your score: 85
+   Grade: B
 
 ---
 
