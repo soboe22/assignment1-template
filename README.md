@@ -48,7 +48,15 @@ The program should display the following menu:
 ---
 
 ## 💻 Sample Output
-
+==== Smart Utility Calculator ====
+Check if a number is Even or Odd
+Find the largest of three numbers
+Grade Calculator
+Simple Calculator
+Exit
+Enter your choice: 3
+Enter your score: 85
+Grade: B
 
 ---
 
